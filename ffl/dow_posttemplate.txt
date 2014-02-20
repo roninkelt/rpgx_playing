@@ -1,0 +1,22 @@
+# vim: set wrap ft=bbcode fileencoding=utf-8 :
+
+Dow slips across when given the all clear and starts helping in [tt="searching "][DICE="Alertness & Perception"]1d6 1d8t[/DICE][/tt]for something useful. Facilities Electrical sounds particularly promising and he starts there.
+
+He pulls up short when Sebastian says that Rein is in trouble, then decides the best he can do is continue searching. Maybe there are plans that will allow disabling the security system electrics in here somewhere. 
+
+[i]Uh oh. We're in for it now.[/i] His fingers dance thru the files as quickly as he is able to process the pages and decide whether to discard or not.
+
+
+[spoilerbutton="Mechanics"]
+
+[fieldset="Dow"][URL="http://www.rpgcrossing.com/profiler/view.php?id=45300"]Dow[/URL][/fieldset][/spoilerbutton]
+
+[fieldset="ooc"] 
+[/fieldset]
+
+[SAY]  YOUR IN CHARACTER SPEECH  [/SAY]
+[I]  YOUR IN CHARACTER THOUGHTS  [/I]
+[COLOR=BLUE]  YOUR IN CHARACTER SPELLS OR ATTACKS  [/COLOR]
+[LANG][SAY] IN CHARACTER SPEECH IN ANOTHER LANGUAGE [/SAY][/LANG]
+[tt=""][DICE=""]1d10+1d8[/DICE][/tt]
+

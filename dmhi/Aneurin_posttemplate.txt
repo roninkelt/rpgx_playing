@@ -1,0 +1,20 @@
+# vim: set wrap ft=bbcode fileencoding=utf-8 guifont=DejaVu\ Sans\ Mono\ 13:
+
+Dai quickly sorts his papers and pushes back from the table. By the time he totters painfully from the room, Aurora is already getting changed so he waits. 
+[say]Should you need anything...[/say] He offers to her retreating back as she turns and walks out the door. [say]You're no longer alone[/say] He finished to a closing door. 
+
+He looked at the closed door, turned to the conference room, looked back again and then slowly made his way back to the conference room to finish the report. [say]Be safe, my young friend.[/say]
+
+[spoilerbutton=mechanics][fieldset="Dai Stress:P 2 : M 2 : F 3/3 "]
+4|Moderate: "Yes, it hurts there!"*
+[/fieldset][/spoilerbutton]
+
+[fieldset="ooc"] 
+
+[/fieldset]
+[POST="5906282"][SIZE="4"][COLOR="DarkRed"]Dai[/COLOR][/SIZE][/POST]
+[B]"  YOUR IN CHARACTER SPEECH  "[/B]
+[I]  YOUR IN CHARACTER THOUGHTS  [/I]
+[COLOR=BLUE]  YOUR IN CHARACTER SPELLS OR ATTACKS  [/COLOR]
+[B][LANG]" IN CHARACTER SPEECH IN ANOTHER LANGUAGE "[/LANG][/B]
+[tt="look around"][DICE="investigate"]4dF+3[/DICE][/tt]

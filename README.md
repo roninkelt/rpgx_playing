@@ -1,4 +1,10 @@
-rpgx_playing
+Games in Progress at rpgcrossing.com
 ============
 
-games currently in progress - character, notes, posts
+character, notes, posts
+
+Current Games (Game System)
+*  Community Supporter Exclusive Adventure (d20 - 3.5e)
+*  Dark Matters: Hoffman Institute (Fate Core)
+*  Freedom's Flight (Serenity RPG)
+

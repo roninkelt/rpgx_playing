@@ -1,0 +1,63 @@
+[FIELDSET="Physical"]
+[B]Name[/B] Donovan 'Dow' R(udolph). Rayles 
+[B]Gender[/B] Male
+[B]Age[/B] 20
+[B]Physical Description[/B] A face only a momma could love.
+[SPOILERBUTTON="Portrait"][IMG]http://farm9.staticflickr.com/8419/8746294073_470a91eb35_n.jpg[/IMG][/SPOILERBUTTON]
+[spoilerbutton=mechanics]
+[fieldset=Attributes]
+Agility:d8
+Strength:d6
+Vitality:d6
+Alertness:d8
+Intelligence:d8
+Willpower:d6
+[/fieldset]
+[fieldset=Skills]
+Athletics - d6
+    Dodge - d8
+Guns - d6
+    Pistol - d8
+Mechanical - d6
+Perception - d6
+    Intuition - d8
+Performance - d6
+    Dance - d8
+Pilot - d6 (d10)
+    Midbulk Transport - d10 (d12+2)
+Technical - d6
+Unarmed Combat - d6
+    Brawling - d8
+[/fieldset]
+[fieldset=Traits]
+Can't have just One (minor) - drinks never come in singles (Hooked))
+In My Own Way (minor) - as in can't get out of (Things don't Go Smooth)
+Panic when it's over (minor) - defer effects of stress til after danger is past at the cost of a more violent reaction. As Steady Calm (major) but with a -2 to everything after action for at least one scene due to reaction.
+Like a leaf in the Wind (Major) - zenlike ability to be at one with the ship (+2 die type to pilot).
+Irascible (minor) - Tetchy or bad tempered are what some would say. It's never clear what will set off a rant with you. Like a bottle of nitro, you just have to be gentle and even that doesn't always work.
+Benefit: -2 step Skill penalty when delicacy and subtlety are called for.
+
+[/fieldset]
+[/spoilerbutton]
+[/FIELDSET]
+[spoilerbutton]
+[FIELDSET="Concept and Character"]
+[B]Defining Role/Archetype/Concept[/B] Too young to know from a hole in the ground.
+[B]Motivation[/B]: I just want to fly, damn the rules.
+[B]Goals[/B]:  People aren't things, a government that thinks they are doesn't deserve to exist.
+[B]Fears[/B] Leeches - hate those damn things! Bloodsuckers of all kinds for that matter - and that includes lawyers.
+[B]Virtues[/B] Loyal to a fault. Cunning but not ruthless.
+[B]Vices[/B]: drinker, but never on duty. cynical.
+[B]Anything Else[/B]: Dow doesn't care (or pretends not to), as long as he has money in his pocket. If anyone will trust him to pilot, he'll do it - putting his skills on display. His irascible nature comes out at times, especially under stress or when drinking. Young enough to be an idealist, but it conflicts with his cynical view of humanity.
+[/FIELDSET]
+[FIELDSET="What has gone before"][B]Origins[/B]: Grew up in the outer tier of core worlds, but didn't care for the way of life. He ran away from home to escape the confining social pressure to conform and found himself without any support or training. He had to rely on natural talent and a quick learning mind to support himself.
+ 
+[B]The War[/B]: He's too young to have fought himself, but his da returned from fighting when he was 12 or so. Didn't like to talk about it, but had a lot of anger bottled up inside, he was old beyond his years. Ma's been takin care of him and supporting the family since. I been working at home since I can remember an bringin in money while Da sits and stews in his own juices.
+[/FIELDSET]
+[fieldset="character aspirations"]
+[b]Defining Traits:[/b]
+Never fight fair when dirty will do - fighting fair is for those who can afford it.
+Accentuate the Negative
+[/fieldset]
+[/spoilerbutton]
+

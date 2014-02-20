@@ -1,0 +1,12 @@
+[table="head;width=50%;css=padded"]{colsp=3}Adventure Name - Author
+Category |	Score |	Comments
+{colsp=3}[b]Ingredients[/b]
+Ingredient | 0-5 |	score based on integration, use of ingredient and comment 
+Bonus Ingredient | 0-2 |	1 point for presence, two for good integration
+{colsp=3}[b]Game Play[/b]
+Story Concept | 0-5 |	Originality 
+Hooks and Conflict | 0-5 |	How compelling is the story, how much conflict
+{colsp=3}[b]Writing[/b]
+Grammar/Spelling | 0-5 |	How well written in terms of spelling and grammar
+Cohesion/Structure | 0-5 |	do the various sections flow together.
+[b]Total Points[/b] | [b]x/y[/b] |	[b]percentage (can be over 100 if bonus ingredients are used[/b][/table]

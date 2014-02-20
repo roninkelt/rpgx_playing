@@ -1,0 +1,59 @@
+[fieldset=Briav]
+[URL="http://www.dndonlinegames.com/profiler/view.php?id=34235"][Size=4][color=red]Briav[/size][/color][/Url]
+[imgr]http://roninkelt.com/images/briav.jpg[/imgr]
+[B]Name[/B]: Briav of Clan Wrack
+[B]Gender[/B]: Male
+[B]Age[/B]: 16
+[B]Defining Role/Archetype/Concept[/B]: Hulking Bruiser
+[B]Physical Description[/B]:At 6 and a half feet tall and well over 200 pounds, Briav is the classic hulking half orc. The greenish tint to his skin, wild black hair and small tusks betray his ancenstry to any with eyes to look.
+
+[spoilerbutton=Motivations]
+[table]
+Primary Motivator|Recognition
+Sense of Humor|Crude
+Emotional Disposition|Melancholy
+Moodiness|Labile
+CORE TRAITS
+Outlook|Pessimistic
+Integrity|Pragmatic
+Impulsiveness|Rash
+Boldness|Intrepid
+Flexibility|Stubborn
+Affinity|greedy
+Comportment|Gruff
+Interactivity|Taciturn
+Disclosure|Cryptic
+Conformity|Conventional
+Religion & Spirituality|
+Adherence|Orthodox|
+Tolerance|Tolerant|
+^Expression of beliefs|Occasional|
+^Converting others|Never|
+^Attitude|Irreverent|
+||||
+^Topics of Conversation|Money; current events; politics||
+^Quirks, Habits, & Oddities||Stuttering, pacing, Obsessive neatness||
+^Hobbies & Enjoyments||Drinking, whittling||
+[/table]
+
+[B]Goals[/B]: Amass as much wealth as possible
+[B]Fears[/B]: Crazy people, paranoid people
+[B]Virtues[/B]: compulsively neat and clean
+[B]Vices[/B]: almost always late to anything.
+[/spoilerbutton]
+[spoilerbutton=Background]
+[B]Origins[/B]:
+[b]Birthplace[/b]
+[indent]
+    Name
+    Location
+    Size
+    Geography: mountainous
+    Weather
+    Industry
+    Local government/nobility
+    General character, what it was like (e.g. hospitable, communal, ugly, sleepy, dangerous, educated, commercial, pious, stuffy, fun, historical, youthful, political, upscale, transient, depressing, laborious, etc.)
+    Or were you born isolated from a population center or in a group/family that travelled?
+[/indent]
+[/spoilerbutton]
+[/fieldset]

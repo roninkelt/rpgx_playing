@@ -1,0 +1,89 @@
+# vim: set wrap ft=bbcode fileencoding=utf-8 guifont=DejaVu\ Sans\ Mono\ 14 :
+[color=red]Work in progress.[/color]
+
+[FIELDSET=Character][imgr]http://www.roninkelt.com/images/dai.jpg[/imgr][color="red"][size=5]Aneurin Dai Howell-Price III[/size][/color]
+High Concept: [B][tt="No kidding Sherlock."]Mediocrity knows nothing higher than itself; but talent instantly recognizes genius.
+ - Arthur Conan Doyle, The Valley of Fear
+ 
+It is my business to know what other people do not know.
+ - Arthur Conan Doyle, The Adventure of the Blue Carbuncle
+
+I am a brain, Watson. The rest of me is a mere appendix.
+ - Arthur Conan Doyle, The Adventure of the Mazarin Stone 
+[/tt][/B]; 
+Trouble: [B][tt="Believe in nothing and you'll believe anything."]
+Faith is the great cop-out, the great excuse to evade the need to think and evaluate evidence. Faith is belief in spite of, even perhaps because of, the lack of evidence. - Richard Dawkins
+
+The world we see that seems so insane is the result of a belief system that is not working. To perceive the world differently, we must be willing to change our belief system, let the past slip away, expand our sense of now, and dissolve the fear in our minds. - William James
+[/tt][/B]
+
+Physical: 2; Mental: 2; Fate: 3; Scale: medium; Consequences: 3
+Skills: +4 [tt=lore]lore[/tt];
+ +3 [tt=investigate]investigate[/tt], [tt=notice]notice[/tt];
+ +2 [tt=empathy]empathy[/tt], [tt=contacts]contacts[/tt], [tt=rapport]rapport[/tt];
+ +1 [tt=athletics]athletics[/tt], [tt=burglary]burglary[/tt], [tt=stealth]stealth[/tt], [tt=resources]resources[/tt]
+
+Aspects: [B][tt="Knowledge is a Weapon"]Well-read and well-informed, you have a great respect for the value of knowledge for its own sake. You're also good at finding ways to apply that knowledge. You might be perceived as a bit of a know-it-all.
+
+Invoke To -
+    Remember something you read that applies to exactly this task (say, a medical procedure or battle plan).
+    Perform research or gather information.
+    Win an argument or make someone look like a dullard.
+
+Compel To -
+    Upset someone important because you know more than them.
+    Have a distracting opportunity to acquire a valuable tome, or other source of new knowledge.[/tt][/B]
+[B][tt=TBD] 
+Invoke To -
+Compel To -
+[/tt][/B]
+[B][tt=TBD] 
+Invoke To -
+Compel To -
+[/tt][/B]
+
+Stunts:
+[B][tt="Flashes of Brilliance"] 'I confess that I have been blind as a mole, but it is better to learn wisdom late than never to learn it at all.' 
+Sherlock Holmes -The Man with the Twisted Lip
+---
+When it's really dropped in the pot is when you perfom best. spend a Fate point to succeed with style if a roll succeeds at all.[/tt][/B] 
+[B][tt="Polyglot"] Through an excellent education and natural aptitude you know a wide range of languages. +2 to Lore whenever reading, writing, speaking or translating an unusual language.[/tt][/B] 
+[B][tt="The Smallest Detail"] 'It has long been an axiom of mine that the little things are infinitely the most important.'
+
+Sherlock Holmes -A Case of Identity
+---
+Like Sherlock Holmes, you notice incongruous details that reveal a larger or hidden picture. Once per scene you can spend a fate point (and a few minutes of observation) to make a special Investigate roll representing your potent deductive faculties. For each shift you make on this roll you discover or create an aspect, on either the scene or the target of your observations, though you may only invoke one of them for free.[/tt][/B] 
+Extras: 
+[b][/b]
+
+Notes: Aneurin (Andy or Dai to his friends)
+[/FIELDSET]
+[spoilerbutton=WIP]
+[fieldset="The Three P's"]
+[fieldset="Physical"]
+[B] Name:[/B] Aneurin Dai Howell-Price III
+[B] Appearance:[/B] Slightly built middle aged gentleman with an unruly mass of curly mouse brown hair. Blue-grey eyes peep out from under slightly shaggy brows. Typically dressed in a shabby herringbone jacket and vest, he could be mistaken for a college professor or librarian.
+[/fieldset]
+[fieldset="Persona"]
+[B] Backstory:[/B] Raised in a wealthy family, his parents let him be raised by a series of nannies and boarding schools. He always did well in school, but was always a bit bookish. He is heir to a title, but has never really put much thought into it. Since he lives mostly in the States it never comes up, other than providing a generous income for him to live on. The one true regret in his life (getting married) lead to one of the true joys (two children). He was too young to get married and now wishes he could see more of his children. 
+[B] Personality and surface affectations:[/B] The classic English gentleman, he is reserved and understated by habit. His ex wife called him aloof and uncaring, but that would entirely miss the point. He is just interested in different things than most and she wasn't at all. Often pedantic and a bit of a noodge.
+[B] Worldview:[/B]The world is a web of interconnectedness - often at such a deep level that the participants themselves have no idea of the connection. The hidden part of society is so much more interesting than the open and populated by the most interesting people. Getting to them is worth the effort and ferreting out the connections often reveals much more about the true goals of those involved.
+[b] Theme Song[/b] [url="http://grooveshark.com/s/Voodoo/1RL2az"]Voodoo[/url] by Godsmack
+[/fieldset]
+[fieldset="Purpose"]
+[B] Goals:[/B] Make the world a safer place for his children. Know what there is to know, find a solid footing upon which to make progress toward a better self.
+[B] Motivations:[/B] Curiosity, idealism taken to an extreme. Protection of the unknowing from those who would exploit them
+[B] Inner demons and conflicts:[/B] Which is the right way and which are dead ends? How does one measure right and wrong? Do others have the right to practice their own beliefs if the practice of them impinges on others? When is the exercise of power the right thing? How responsible is one when the actions of others force violent exercise of power? 
+[B] Character arcs:[/B] 
+Short:discover a nascent talent for magic.
+Medium:cohere years of study and practice into a framework of morality that he can live by. 
+Long:wrestle with the implications of absolute truth, power and how it changes the one who wields it. Elucidate a theory and understanding of magick.
+[/fieldset]
+Notes: parents alive, ex-wife 2 children, curious, fulfilling a vow (tbd), fortitude and tenacity. Idealist. Questioning morality - killed/dead prior associate. 
+[/fieldset]
+[/spoilerbutton]
+u25c9 - â
+u25a2 - â¢
+u25a3 - â£
+u25a9 - â©
+u25ef - â¯
