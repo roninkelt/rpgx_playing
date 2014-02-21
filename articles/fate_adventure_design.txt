@@ -1,0 +1,101 @@
+Adventure Stats
+
+In my opinion, no system for running games can get too simple for a GM. They already have so much to worry about, why make them have to also add bookkeeping to that list?
+
+This update removes all complicated bookkeeping. You could literally have everything you need for the whole adventure on the front (and maybe back, for an adventure with a lot of scenes) of a 3×5 card!
+
+Adventure Aspects
+You should create at least two aspects for every scene: one for the setting/environment and one for the obstacle the PCs will face  you can do more, this should be your minimum. If the PCs will face no obstacle, then there is no tension. You need to delete the scene from your list in most cases, as it will be fiercely boring. Even searching an office for information is an obstacle, Hidden Clues.
+
+Adventure Skills
+Adventures use the following skills:
+
+    Combat: Governs NPCs attacking, defending and creating advantages using combative maneuvers. (NPC and setting uses of Fight/Shoot, and the defense portion of Athletics)
+    Exploration: This sets the difficulty, or opposes, PC attempts to interact with, or move through, the environment, whether that opposition comes from an NPC or another obstacle in the setting. This covers movement, investigating clues, discovering details, determining NPC initiative, allow something to remain hidden from the PCs, etc. (NPC and setting uses of Athletics, Investigation, Notice, Physique, Stealth)
+    Interaction: This is rolled to have the NPCs interact with the PCs. (NPC and setting uses of Contacts, Deceit, Empathy, Provoke, Rapport, Resources, Will)
+    Lore: Governs how difficult it is to know some relevant information that comes up in the adventure. (NPC and setting uses of Lore)
+
+To set the adventure's skill ratings, set two of the above skills at the same level as the PC's apex skill rating (called Average Difficulty), then choose one to be +2 higher than that (called Hard Difficulty) and one to be -2 lower (called Easy Difficulty). For instance, if the PCs have an apex skill of Great (+4), then you'd have a set-up of +6, +4, +4, +2. If the apex skill is +3 (like in FAE), then you would have: +5, +3, +3, +1.
+
+Situate the skills so that they highlight the important aspects you have in mind for the adventure. Do you want this adventure to be a tough fight with low social interaction? Have Combat be your Hard skill and Interaction be Easy. Do you want a game of intrigue with next to no fighting? Use Lore or Interaction as your Hard skills and Combat as your Easy skill.
+
+Vitals
+Give the adventure stress and consequences. Stress would begin at 3 and consequences would get a full set (mild, moderate, severe). Use the number of players as a skill rating to determine bonus stress and consequences (like how Physique or Will works for a character's bonus stress/consequences). If you find that too easy for the players, consider adding 2 to the skill rating.
+
+Use of these vital stats is identical to how they are used for a player. Anytime an NPC, environment, etc., takes stress, it subtracts from the adventure stress track, which replenishes at the end of the scene as usual. When the adventure is taken out, the GM can opt to keep the scene in play a little longer by filling one of the adventure's consequence slots. No recovery check is necessary to begin the healing process of an adventure consequence  all that's needed is time.
+
+Of particular note are severe consequences. These remain for the rest of the adventure, but don't follow into the next adventure. This means that if the GM has not used it by the end of the adventure, he has a basically free use of a severe consequence for the climax. This has the effect of making the climax last longer and become more difficult to overcome, which is a good thing. Tension should be higher in that final scene.
+
+NPCs and Stunts
+Instead of using large numbers of huge stat blocks and individual vital scores to keep track of, the GM instead records the name of the NPC, one or two aspects (which can be borrowed from the adventure/scene aspects), and a number of stunts necessary to set the NPC apart from the adventure mechanically.
+
+Writing an Adventure
+
+Writing an adventure shouldn't take more than 20 minutes, assuming you already know what the story will be about.
+
+Goal
+First, you need a goal. What is it the PCs want? How will you make it inevitable that they will travel toward that goal (if it isn't, they may decide not to partake in the adventure at all)? Once you know the goal, decide whether or not they'll obtain their goal  maybe is a sufficient answer here, relying on the PCs to determine success or failure on their own. It isn't necessary that they will, however, as failure leads to more adventures.
+
+Scene List
+Once you have your goal, work backwards to create the scene list  scenes are where players get to play, without them, you have no game.
+
+What steps will the players need to take to achieve their goal? To bring a killer to justice, they might first have to discover his whereabouts, which requires discovering who he is, which may require questioning witnesses and following clues, which requires investigating the crime scene, which requires being alerted to the crime.
+
+Read that backwards and you have your scene list: hear about the crime, investigate the scene, talk to witnesses/follow clues, discover the killer's identity, discover his whereabouts, take him down. While reading that you might decide, like I just did, to increase the tension somewhere in the middle. Maybe a witness turns up dead, too  or a fight ensues between a masked killer and the PCs as they arrive just before a witness is murdered. This is logical, as the killer would want to throw off the investigation.
+
+Important Note: No plan survives contact with the PCs. If the scene's don't go in perfect order, that's okay. Maybe the PCs manage to skip a scene through ingenuity, or make a scene irrelevant, or create a new scene by following some tangent they came up with. Go with it! You can always bring them back on track, or modify a previous scene on the fly to create the new scene.
+
+Adventure Aspects
+Now you can come up with your adventure aspects. Write two for each scene: one for the location/setting, and one for the obstacle the PCs will face. You can write more than these, but include at least these two.
+
+Adventure Skills
+Now that you know what the adventure is going to be about, look at the four adventure skills and determine which ones will be used more often, those should be your Hard and Average skills. Give each skill a rating for this adventure. This is what you'll be rolling for every NPC or setting element that comes into play against the PCs.
+
+Vitals
+Record your vitals (stress and consequences), keeping in mind how many PCs are going to play in the adventure to figure how many bonus vitals you get.
+
+NPCs and Stunts
+Finally, go through your obstacles (one of the aspects you created for each scene) and create one or more stunts to represent that obstacle with reliable mechanical effects.
+
+ A Sample Adventure!
+
+For this, I'll use my previous example, since the fiction is already in my head.
+
+Raiding the Temple of Narem-Sha
+
+Goal: Narem-Sha's Tomb Has Ancient and Powerful Magic
+The PCs need this magic to overthrow (major campaign threat).
+
+Death Overhanging: Narem-Sha's Tomb is Cursed (Whenever a PC fails a roll by 3 or more, create an advantage on them representing how the curse affects them.)
+
+Scenes
+
+Nearby Village
+Obstacle Aspect: Odd and Cryptic Villagers (+2 Interaction to defend against Rapport)
+Environment Aspect: Old and Secluded Town
+
+Gaining Entry to the Tomb and Exploring
+Obstacle Aspect: Techno-Magi Lock (Lock breaker gets a curse advantage  see Death Overhanging, above)
+Environment Aspect: Dark and Dangerous
+
+Fighting Past Tomb Defenders
+Obstacle Aspect: Animated Skeleton Horde (You can use Combat to attack the entire zone); Undead (+2 to create Fear advantages with Interaction; Skeletons are immune to social actions)
+Environment Aspect: Broken Sarcophagi Litter Chamber Floor
+
+Pilfering the Tomb
+Obstacle Aspect: The Powerful Lich Lord, Narem-Sha! (Once per scene, you can summon a group of animated skeletons [above]); Undead (+2 to create Fear advantages with Interaction); Ancient Sorcerer (+2 Combat when using magic to attack or create advantages)
+Environment Aspect: Dust-Covered Treasure Everywhere
+
+Skills (NPC Apex = +4)
+
+    Hard (+6): Exploration
+    Average (+4): Combat, Lore
+    Easy (+2): Interaction
+
+Vitals
+
+    Stress: 3 (+ Bonus)
+    Consequences: Mild, Moderate, Severe
+
+Notes
+It made sense to put all of the scene information in the same place. Thus, the obstacle aspects have the stunts listed with them (and I added one to the Death Overhanging [trouble] aspect, because it felt right to give that one a little bit of a reliable mechanical effect). This is not the only way to do it. It is certainly possible to give the environment aspect a stunt, list the stunt effects separately, or anything else that makes sense. I did it this way to save space, and because it made the most sense at the time.

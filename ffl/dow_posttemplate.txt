@@ -1,11 +1,6 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-Dow slips across when given the all clear and starts helping in [tt="searching "][DICE="Alertness & Perception"]1d6 1d8t[/DICE][/tt]for something useful. Facilities Electrical sounds particularly promising and he starts there.
-
-He pulls up short when Sebastian says that Rein is in trouble, then decides the best he can do is continue searching. Maybe there are plans that will allow disabling the security system electrics in here somewhere. 
-
-[i]Uh oh. We're in for it now.[/i] His fingers dance thru the files as quickly as he is able to process the pages and decide whether to discard or not.
-
+Dow hands Seb the file he was just reviewing [say]This might help you as well[/say] and starts putting on the guard uniform
 
 [spoilerbutton="Mechanics"]
 

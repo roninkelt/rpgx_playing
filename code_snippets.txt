@@ -1,0 +1,10 @@
+print a random list of 20 names from a text file
+
+awk 'BEGIN {srand()} {print rand() " " $0}' norwegian_male.txt | sort -n | tail -n 20 | awk '{print $2}'
+
+print the first field of every other line into a file
+
+awk 'NR%2==1' surnames.txt | awk '{print $1}' > norwegian_female.txt
+
+print the second field of every line into a text file
+awk '{print $2}' surnames.txt > english_surnames.txt
