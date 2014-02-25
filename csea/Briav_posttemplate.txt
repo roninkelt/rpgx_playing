@@ -1,27 +1,12 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
 [fieldset="AC: 20; HP: 59/65; Spiked Chain +1: P, +11/+6, 2d4+7, Reach 10; Speed: 20"]
-[url="http://www.rpgcrossing.com/profiler/view.php?id=34235"][SIZE="4"][COLOR="DarkRed"]Briav[/COLOR][/SIZE][/url] hears the odd keening hum but it is 
+[url="http://www.rpgcrossing.com/profiler/view.php?id=34235"][SIZE="4"][COLOR="DarkRed"]Briav[/COLOR][/SIZE][/url] staggers from the impact. Turning it into a looping charge, he whirls his chain around his head and whips it out at the beast [tt="lashing"][DICE="chain first attack"]1d20+11sch0cx,20 2d4+7ci1[/DICE][/tt] it [tt="twice"][DICE="chain second attack"]1d20+6sch0cx,20 2d4+7ci1[/DICE][/tt] in the blink of an eye.
 
-somewhat muffled
 
-by his helmet. Ignoring it and the thrashing chains he 
-
-continues 
-
-to 
-
-flail
-
-at the thing as it burns merrily. Grotesque shadows of the combatants flicker on the walls.
-
-[tt="_"][DICE="chain first attack"]1d20+11sch0cx,20 2d4+7ci1[/DICE][/tt]
-[tt="_"][DICE="chain second attack"]1d20+6sch0cx,20 2d4+7ci1[/DICE][/tt]
- 
 [/fieldset]
 
-[fieldset="ooc"] 
-
+[fieldset="ooc"]
 [/fieldset]
 
 [B]"  YOUR IN CHARACTER SPEECH  "[/B]

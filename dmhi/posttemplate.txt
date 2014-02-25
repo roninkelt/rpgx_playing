@@ -1,0 +1,35 @@
+# vim: set wrap ft=bbcode fileencoding=utf-8 :
+
+Dai leans back in the bed trying not to itch either the scabs covering his scrapes or where his hair is starting to grow back. Another jacket ruined - scorched and shredded by asphalt, but his samples had been safe as were all his compatriots.
+
+He remembered being in the plane, going to talk to Dorian, Garland and Aurora. Next thing he remembered was a force like a giant soft hand flinging him across the parking lot just ahead of the fire front. The funny thing is there was no sound at all, but his ears are still ringing at times. The sound must have been more like a physical force - felt but not heard. The fire washed over him in flick of oven heat, crisping any exposed hair and making his clothes smoulder. Fortunately it had rolled over then rolled on into the air above the blast site.  Most of the damage had been what the doctor called 'road rash' in almost English understatement. His perimiter areas - arms, shoulders, sides of the head, ankles and hip had been scraped quite badly and now itched abominably.
+
+Now would be a good time to think, if only the staff would allow him a pipe. He wasn't going to be good for much else for several more days at the very least. Cursed Americans and their teetotaling ways - no tobacco, no drink. What was he supposed to do wallow in misery? He wouldn't take the pain pills offered, except asprin or ibuprophen - they clouded his thoughts too much. And he had much to consider.
+
+Question one - whatever the agents had been investigating it wasn't the airplane incident. What was it? He vaguely remembered Garland mentioning that he had seen the unfortunate who was shoved into a box and that individual had silver eyes. What did that mean.
+
+Question two - what was the claw he had found?
+
+Question three - what had he gotten himself involved in?
+
+Fortunately, Aurora's conversation was stimulating and kept his mind from dwelling on physical discomfort. It also allowed his subconscious to rake over the investigative compost he had deposited atop it.
+
+He assumed that Dr Neary's arrival signaled some sort of turning point in their recovery.
+
+[spoilerbutton=Mechanics]
+[fieldset="Dai"] Stress:P 2 : M 2 : F 4/3 :
+2|Mild: "Beg pardon, what was that again?" 
+4|Moderate: "Yes, it hurts there!"
+[POST="5906282"][SIZE="4"][COLOR="DarkRed"]Dai[/COLOR][/SIZE][/POST]
+[/fieldset][/spoilerbutton]
+[spoilerbutton=ooc]
+[fieldset="ooc"]
+
+[/fieldset][/spoilerbutton]
+
+[SAY]  YOUR IN CHARACTER SPEECH  [/SAY]
+[I]  YOUR IN CHARACTER THOUGHTS  [/I]
+[COLOR=BLUE]  YOUR IN CHARACTER SPELLS OR ATTACKS  [/COLOR]
+[LANG][SAY] IN CHARACTER SPEECH IN ANOTHER LANGUAGE [/SAY][/LANG]
+[tt="investigate"]Using a fate point and the detail aspect (given sufficient time)[DICE="Investigate"]4dF+7[/DICE][/tt]
+

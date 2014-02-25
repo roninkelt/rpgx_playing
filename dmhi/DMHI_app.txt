@@ -1,7 +1,5 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 guifont=DejaVu\ Sans\ Mono\ 14 :
-[color=red]Work in progress.[/color]
-
-[FIELDSET=Character][imgr]http://www.roninkelt.com/images/dai.jpg[/imgr][color="red"][size=5]Aneurin Dai Howell-Price III[/size][/color]
+[FIELDSET=Character][imgr]http://www.roninkelt.com/images/dai.jpeg[/imgr][color="red"][size=5]Aneurin Dai Howell-Price III[/size][/color]
 High Concept: [B][tt="No kidding Sherlock."]Mediocrity knows nothing higher than itself; but talent instantly recognizes genius.
  - Arthur Conan Doyle, The Valley of Fear
  
@@ -33,13 +31,18 @@ Invoke To -
 Compel To -
     Upset someone important because you know more than them.
     Have a distracting opportunity to acquire a valuable tome, or other source of new knowledge.[/tt][/B]
-[B][tt=TBD] 
+[B][tt="I don't give a damn"]"Although in his methods of thought he was the neatest and most methodical of mankind...[he] keeps his cigars in the coal-scuttle, his tobacco in the toe end of a Persian slipper, and his unanswered correspondence transfixed by a jack-knife into the very centre of his wooden mantelpiece... He had a horror of destroying documents...Thus month after month his papers accumulated, until every corner of the room was stacked with bundles of manuscript which were on no account to be burned, and which could not be put away save by their owner."
+
+What appears to others as chaos, however, is to Holmes a wealth of useful information. Throughout the stories, Holmes would dive into his apparent mess of random papers and artifacts, only to retrieve precisely the specific document or eclectic item he was looking for. In matters of personal hygiene, by contrast, Holmes is described in The Hound of the Baskervilles as having a "cat-like" love of personal cleanliness 
 Invoke To -
+    ignore social pressure to perform some act
 Compel To -
+    Irritate someone with total disregard for social standards
 [/tt][/B]
-[B][tt=TBD] 
-Invoke To -
-Compel To -
+[B][tt=I Am Third] 
+Due to upbringing and family background,
+Invoke To - Will have an advantage in social situations where upper class roles (family, business, politics) and expectations are in play.
+Compel To - Will have trouble relating to the common man equations.
 [/tt][/B]
 
 Stunts:

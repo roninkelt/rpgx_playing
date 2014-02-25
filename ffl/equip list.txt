@@ -1,0 +1,13 @@
+Cr 750
+
+  2.6 Gun Vac Case
+  2.4 Gun Cleaning Kit
+ 46  Ballistic Mesh
+ 67  Vacuum Suit
+ 16  Hatchet
+  0.8 Utility Knife
+ 18  Pistol
+  3.2 Ship Linked Handset
+ 22.8 Data Library, Standard
+120   Eyetap Computer
+298.8
