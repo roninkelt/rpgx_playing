@@ -1,12 +1,25 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 guifont=DejaVu\ Sans\ Mono\ 13:
 
-Dai quickly sorts his papers and pushes back from the table. By the time he totters painfully from the room, Aurora is already getting changed so he waits. 
-[say]Should you need anything...[/say] He offers to her retreating back as she turns and walks out the door. [say]You're no longer alone[/say] He finished to a closing door. 
+Dai watches the video with a sceptical eye, it's amazing what happens when people let the human brain run wild.  Shapes in clouds, faces on Mars, Jesus on a piece of toast - the brain is a wonderful tool for sorting patterns from noise, but that same pattern matching ability can find things that aren't there as well.
 
-He looked at the closed door, turned to the conference room, looked back again and then slowly made his way back to the conference room to finish the report. [say]Be safe, my young friend.[/say]
+After what he's seen in the last couple of months, he is willing to admit that there may be something to rumors of magic and aliens, but it will take more than tricks of lighting and bad camera angles to show that one is an alien.
 
-[spoilerbutton=mechanics][fieldset="Dai Stress:P 2 : M 2 : F 3/3 "]
-4|Moderate: "Yes, it hurts there!"*
+He goes thru the rest of the briefing without a word - refusing to dignify this, until Eachan comes over introducing Roy.
+
+[say]Pleasure to meet you.[/say]
+
+He also has little use for secrecy and compartmentalization. Dissemination of knowledge and replication of results is the only way to discover the truth of things.
+
+Snorting at Garland's description he adds -
+
+[say]Secrecy is for those outside the Institute, for their own protection. The group of us have been together for a couple of incidents - one before the Institute recruited us and one after. In the first case we were ambushed by several entities whom we identified as the Fates, Norns or Wyrd sisters for lack of better names. In the second case - we're still not sure exactly what it was all about. Perhaps Dr Neary has somewhat to add at a later time. Should you want more information, feel free to ask.[/say]
+
+To Aurora he adds [say]Productive in rest and recuperation. I've been churning over events, but haven't got enough information to draw conclusions yet. I feel that it will take more time and information.[/say]
+
+A thought comes to him [say]Roy, you wouldn't happen to be good at talking to these damned computers? I think if we reframe and ask better questions, that may be more useful than what we have had.[/say]
+
+[spoilerbutton=mechanics][fieldset="Dai Stress:P 2 : M 3 : F 3/3 "]
+2|Mild: "That means it's healing, don't pick"*
 [/fieldset][/spoilerbutton]
 
 [fieldset="ooc"] 
