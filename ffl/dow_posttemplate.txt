@@ -1,10 +1,7 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-Dow whips his head around when the guard enters, then is caught a bit off guard when everyone whips out weapons. Of course it's also difficult to fight when one is putting pants on, standing on one leg.
+Dow straightens his shoulders and looks to the girls [say]How do I look?[/say] He's ready to march down the hall, hopefully convincingly. 
 
-Grateful that there is no outbreak of gunfire, he finishes getting dressed and follows to the guard station.
-
-[say]The impression I got was that there was no ship nearby. We'll have to wait till the one what called in gets here. If you want to get on the surface, there were four vac suits hanging on the wall where we had our little talk.[/say]
 
 
 

@@ -1,22 +1,8 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 guifont=DejaVu\ Sans\ Mono\ 13:
 
-Dai watches the video with a sceptical eye, it's amazing what happens when people let the human brain run wild.  Shapes in clouds, faces on Mars, Jesus on a piece of toast - the brain is a wonderful tool for sorting patterns from noise, but that same pattern matching ability can find things that aren't there as well.
+[say]Yes, nine muses - Calliope, Clio, Erato, Euterpe, Melpomene, Polyhymnia, Terpsichore, Thalia, and Urania. They would have been far preferable - better to have epic poetry recited, than to have one's thread of life snipped.[/say] The reference to Stripes slides right past him. 
 
-After what he's seen in the last couple of months, he is willing to admit that there may be something to rumors of magic and aliens, but it will take more than tricks of lighting and bad camera angles to show that one is an alien.
-
-He goes thru the rest of the briefing without a word - refusing to dignify this, until Eachan comes over introducing Roy.
-
-[say]Pleasure to meet you.[/say]
-
-He also has little use for secrecy and compartmentalization. Dissemination of knowledge and replication of results is the only way to discover the truth of things.
-
-Snorting at Garland's description he adds -
-
-[say]Secrecy is for those outside the Institute, for their own protection. The group of us have been together for a couple of incidents - one before the Institute recruited us and one after. In the first case we were ambushed by several entities whom we identified as the Fates, Norns or Wyrd sisters for lack of better names. In the second case - we're still not sure exactly what it was all about. Perhaps Dr Neary has somewhat to add at a later time. Should you want more information, feel free to ask.[/say]
-
-To Aurora he adds [say]Productive in rest and recuperation. I've been churning over events, but haven't got enough information to draw conclusions yet. I feel that it will take more time and information.[/say]
-
-A thought comes to him [say]Roy, you wouldn't happen to be good at talking to these damned computers? I think if we reframe and ask better questions, that may be more useful than what we have had.[/say]
+[say] Perhaps a trick of the light, perhaps not.[/say]
 
 [spoilerbutton=mechanics][fieldset="Dai Stress:P 2 : M 3 : F 3/3 "]
 2|Mild: "That means it's healing, don't pick"*

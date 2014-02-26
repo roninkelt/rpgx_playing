@@ -1,6 +1,6 @@
 print a random list of 20 names from a text file
 
-awk 'BEGIN {srand()} {print rand() " " $0}' norwegian_male.txt | sort -n | tail -n 20 | awk '{print $2}'
+awk 'BEGIN {srand()} {print rand() " " $0}' norwegian_male.txt | sort -n | tail -n 20 | awk '{print $2}' | column
 
 print the first field of every other line into a file
 
