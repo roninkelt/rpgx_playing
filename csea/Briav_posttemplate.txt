@@ -1,12 +1,21 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-[fieldset="AC: 20; HP: 59/65; Spiked Chain +1: P, +11/+6, 2d4+7, Reach 10; Speed: 20"]
-[url="http://www.rpgcrossing.com/profiler/view.php?id=34235"][SIZE="4"][COLOR="DarkRed"]Briav[/COLOR][/SIZE][/url] staggers from the impact. Turning it into a looping charge, he whirls his chain around his head and whips it out at the beast [tt="lashing"][DICE="chain first attack"]1d20+11sch0cx,20 2d4+7ci1[/DICE][/tt] it [tt="twice"][DICE="chain second attack"]1d20+6sch0cx,20 2d4+7ci1[/DICE][/tt] in the blink of an eye.
+[fieldset="AC: 20; HP: 46/65; Spiked Chain +1: P, +11/+6, 2d4+7, Reach 10; Speed: 20"]
+[url="http://www.rpgcrossing.com/profiler/view.php?id=34235"][SIZE="4"][COLOR="DarkRed"]Briav[/COLOR][/SIZE][/url] grunts with pain as the flaming construct lashes out, digging chunks of flesh from his body and momentarily enveloping him in flame then flinging itself at him bodily.
+
+WIP Post
+
+[tt="_"]In case of no improved grab[DICE="chain AoO"]1d20+11sch0cx,20 2d4+7ci1[/DICE][/tt]
 
 
+
+[tt="_"][DICE="grapple check"]1d20+9[/DICE][/tt]
 [/fieldset]
 
+
+
 [fieldset="ooc"]
+Not sure what the results are going to be here so just left it vague - if the AoO is needed, that roll should stop the attack in it's tracks, if not just ignore and carry on. A 30 will certainly hit Briav's touch AC and likely my grapple check can be overpowered.
 [/fieldset]
 
 [B]"  YOUR IN CHARACTER SPEECH  "[/B]

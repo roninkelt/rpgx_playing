@@ -1,8 +1,9 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-[Say]If he's the special guest, I'd say yes, he'll be dropped off at that end of the prison.[/say] The Colonel seems to have a special place in his heart for the Wingate family. 
+Dow realizes what's going on an instant too late -
+[say]They are trying to take the ship and get out of here![/say]
 
-
+He follows the others into the far room trying frantically to think what to do.  He wouldn't be at all surprised if the hostage isn't there at all.
 
 [spoilerbutton="Mechanics"]
 

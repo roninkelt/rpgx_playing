@@ -1,8 +1,9 @@
-# vim: set wrap ft=bbcode fileencoding=utf-8 guifont=DejaVu\ Sans\ Mono\ 13:
+# vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-[say]Yes, nine muses - Calliope, Clio, Erato, Euterpe, Melpomene, Polyhymnia, Terpsichore, Thalia, and Urania. They would have been far preferable - better to have epic poetry recited, than to have one's thread of life snipped.[/say] The reference to Stripes slides right past him. 
+[say]I'd say we have a loose structure in the field... Dorian seems to be our face man at the moment. On consideration it might be more accurate to say nothing has solidified yet. [/say] He gives a quick grin then picks up one of the phones, quickly taps a number and asks for Jeannie. When she answers asking for his inquiry he replies.
 
-[say] Perhaps a trick of the light, perhaps not.[/say]
+[say]In relation to mission BO-11011-01124, could you clarify the etymology and use of sandman?[/say] Computers like numbers and he's hoping that the mission reference will help make his question less subjective and amenable to processing. 
+
 
 [spoilerbutton=mechanics][fieldset="Dai Stress:P 2 : M 3 : F 3/3 "]
 2|Mild: "That means it's healing, don't pick"*
@@ -11,6 +12,9 @@
 [fieldset="ooc"] 
 
 [/fieldset]
+
+mission file. BO-11O11-01124. "Your new team designation is Echo-Mike-000. Your mission Key Code is "Rook-takes-Pawn". Your recognition key phrase is, "I think I had one of those once." The response is, "It's yours for a sonnet."
+
 [POST="5906282"][SIZE="4"][COLOR="DarkRed"]Dai[/COLOR][/SIZE][/POST]
 [B]"  YOUR IN CHARACTER SPEECH  "[/B]
 [I]  YOUR IN CHARACTER THOUGHTS  [/I]
