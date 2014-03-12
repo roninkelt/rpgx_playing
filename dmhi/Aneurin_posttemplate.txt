@@ -1,9 +1,12 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-[say]I'd say we have a loose structure in the field... Dorian seems to be our face man at the moment. On consideration it might be more accurate to say nothing has solidified yet. [/say] He gives a quick grin then picks up one of the phones, quickly taps a number and asks for Jeannie. When she answers asking for his inquiry he replies.
+[say]Yes, Jeannie, very helpful. You wouldn't happen to know what is going on with the samples from our last mission would you?[/say]
 
-[say]In relation to mission BO-11011-01124, could you clarify the etymology and use of sandman?[/say] Computers like numbers and he's hoping that the mission reference will help make his question less subjective and amenable to processing. 
+Dai wonders what all this has to do with the video that they were shown today, possibly to point out ESI? On another front, the footage of the Sandman decomposing, may have been an escape attempt or possibly preliminary to assuming another form. Perhaps they can only hold a form for a limited amount of time, which would explain some of the agents behaviour. Was it possible to get turned into a sandman? Silicon and Carbon have very different properties, it seems unlikely. Perhaps that would be an interesting test to detect the presence of a Sandman - the human body recomposes oxygen into carbon dioxide as part of it's mitochondrial energy processes, what would the equivalent be for a silicon based being? Would it be possible to test respiration products in real time?
 
+He whips out his notebook and writes notes to that effect, then asks Jeannie [say]Has anyone considered a method to detect the presence of a Sandman? Respiration byproducts or other biologicals?[/say]
+
+He'll discuss it in as much detail as she would like, brainstorming ideas and possible telltales.
 
 [spoilerbutton=mechanics][fieldset="Dai Stress:P 2 : M 3 : F 3/3 "]
 2|Mild: "That means it's healing, don't pick"*
