@@ -1,9 +1,22 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-Dow realizes what's going on an instant too late -
-[say]They are trying to take the ship and get out of here![/say]
+[say]Gorram it! If they are stuck here too we are humped.[/say]
 
-He follows the others into the far room trying frantically to think what to do.  He wouldn't be at all surprised if the hostage isn't there at all.
+Dow looks tired. It's been a long couple of weeks - chased, shot at,
+hiding and now marooned. He shakes his head and continues toward the ship.
+
+[say]Won't find out fer sure til we ask. Maybe they even have something to eat other than lifeboat protein packs.[/say]
+
+When they get closer - maybe 50 yards or so, Dow is careful to keep his
+hands out of his pockets and waves at the ship. The whole time, it's
+looking tantalizingly familiar but the angle of approach is hiding the tail markings.
+
+[say]Let's be careful here Jakes. I don't fancy gettin shot nor left for
+dead.[/say]
+
+Then he waves both hands and shouts - 
+
+[say]Hola! Ahoy the ship! We don't mean no trouble.[/say]
 
 [spoilerbutton="Mechanics"]
 

@@ -1,16 +1,23 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-[fieldset="AC: 20; HP: 35/65; Grappling ;  Speed: 20"]
-[url="http://www.rpgcrossing.com/profiler/view.php?id=34235"][SIZE="4"][COLOR="DarkRed"]Briav[/COLOR][/SIZE][/url] is battered and bruised, but has few real cuts. He shrugs when asked about wounds [say] I've been worse. [/say]
+[fieldset=""]
+[url="http://www.rpgcrossing.com/profiler/view.php?id=34235"][SIZE="4"][COLOR="DarkRed"]Briav[/COLOR][/SIZE][/url] tries to stay in the shade, doing his best to keep the sun from broiling him whole in armor. He mops a rag across his forehead and squints at the smoking mountain.
 
-Gathering with everyone else at the end of the hall, he looks on eagerly as the small bundle of fur is thrown into the room. When a badger trundles back out, he stares in incomprehension - trying to figure out how an animal could dig it's way this deep underground through stone, or survive if trapped behind the bricked up wall.
+[say]Finally. Lllllets hope it's there this tttttime.[/say]
 
- 
+ He slings a pack over his shoulders, shrugging it comfortable. 
+
+[say]Wh wh when do we leave?[/say]
+
+No sense wasting time, if the damn gauntlet isn't there, better to find out
+sooner rather than later.  
+
+Sooner better than later - his father had taunted him with those very words on the way out after his last visit home. The returning punch he had landed lifted the old man from his feet but didn't remove the sting of the words. The implication that it would never happen still stung and put him in a foul mood at times. Briav's teeth ground and jaw muscles jumped at the memory.
+
 
 [/fieldset]
 
-[fieldset="ooc"]
-
+[fieldset="ooc"]Character updates still underway.  I'm still getting back on my feet after returning to the States.
 [/fieldset]
 
 [B]"  YOUR IN CHARACTER SPEECH  "[/B]
@@ -28,3 +35,4 @@ Gathering with everyone else at the end of the hall, he looks on eagerly as the 
 Greatsword +1: S, +12/+7, 2d6+8 ;
 Spiked Chain +1: P, +11/+6, 2d4+7, Reach 10;
 Dagger : P, +9/+4, 1d4+3, Reach 5; 
+AC: 20; HP: 65/65; Grappling ;  Speed: 20
