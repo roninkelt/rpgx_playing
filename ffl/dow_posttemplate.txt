@@ -1,22 +1,8 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-[say]Gorram it! If they are stuck here too we are humped.[/say]
+Dow stands mute for a moment absolutely gobsmacked. Whatever he had been expecting, it wasn't this.  
 
-Dow looks tired. It's been a long couple of weeks - chased, shot at,
-hiding and now marooned. He shakes his head and continues toward the ship.
-
-[say]Won't find out fer sure til we ask. Maybe they even have something to eat other than lifeboat protein packs.[/say]
-
-When they get closer - maybe 50 yards or so, Dow is careful to keep his
-hands out of his pockets and waves at the ship. The whole time, it's
-looking tantalizingly familiar but the angle of approach is hiding the tail markings.
-
-[say]Let's be careful here Jakes. I don't fancy gettin shot nor left for
-dead.[/say]
-
-Then he waves both hands and shouts - 
-
-[say]Hola! Ahoy the ship! We don't mean no trouble.[/say]
+Then he starts jumping up and down, cheering incoherently, whooping, holding Jakes' arm and generally carryin on.
 
 [spoilerbutton="Mechanics"]
 
