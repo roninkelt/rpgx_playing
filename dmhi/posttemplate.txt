@@ -1,30 +1,21 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-Dai leans back in the bed trying not to itch either the scabs covering his scrapes or where his hair is starting to grow back. Another jacket ruined - scorched and shredded by asphalt, but his samples had been safe as were all his compatriots.
+Dai meets the bunch with the beginnings of a smile on his face, but when he sees how beat up everyone is, turns immediately serious.
 
-He remembered being in the plane, going to talk to Dorian, Garland and Aurora. Next thing he remembered was a force like a giant soft hand flinging him across the parking lot just ahead of the fire front. The funny thing is there was no sound at all, but his ears are still ringing at times. The sound must have been more like a physical force - felt but not heard. The fire washed over him in flick of oven heat, crisping any exposed hair and making his clothes smoulder. Fortunately it had rolled over then rolled on into the air above the blast site.  Most of the damage had been what the doctor called 'road rash' in almost English understatement. His perimiter areas - arms, shoulders, sides of the head, ankles and hip had been scraped quite badly and now itched abominably.
+[say]Etoile is the french language word for star. It can refer to a number of different things - in many cases it is applied to communes for some cultural reason. It's also the name of an alternate computer environment. There are several locations named Etoile scattered around the world. Possibly the most prominent is as the highest rank of dancer in the Paris Ballet.[/say]
 
-Now would be a good time to think, if only the staff would allow him a pipe. He wasn't going to be good for much else for several more days at the very least. Cursed Americans and their teetotaling ways - no tobacco, no drink. What was he supposed to do wallow in misery? He wouldn't take the pain pills offered, except asprin or ibuprophen - they clouded his thoughts too much. And he had much to consider.
+He ponders for a moment before continuing [say]there is also the film Etoile starring Jennifer Connolly from 1989, but that seems unlikely in this context, I mention it strictly for completeness.[/say]
 
-Question one - whatever the agents had been investigating it wasn't the airplane incident. What was it? He vaguely remembered Garland mentioning that he had seen the unfortunate who was shoved into a box and that individual had silver eyes. What did that mean.
-
-Question two - what was the claw he had found?
-
-Question three - what had he gotten himself involved in?
-
-Fortunately, Aurora's conversation was stimulating and kept his mind from dwelling on physical discomfort. It also allowed his subconscious to rake over the investigative compost he had deposited atop it.
-
-He assumed that Dr Neary's arrival signaled some sort of turning point in their recovery.
+As Dorian seems to be in charge,  Dai wants to make himself useful. [say]Would it be alright if I open the cooler? Precautions?[/say]
 
 [spoilerbutton=Mechanics]
 [fieldset="Dai"] Stress:P 2 : M 2 : F 4/3 :
-2|Mild: "Beg pardon, what was that again?" 
-4|Moderate: "Yes, it hurts there!"
 [POST="5906282"][SIZE="4"][COLOR="DarkRed"]Dai[/COLOR][/SIZE][/POST]
 [/fieldset][/spoilerbutton]
 [spoilerbutton=ooc]
-[fieldset="ooc"]
+[fieldset="ooc"] I really hope that the box doesn't contain what it did in your reference Spats.
 
+Assuming that Dai has been here for at least a bit, is there a clean room or isolation chamber with negative pressure available?
 [/fieldset][/spoilerbutton]
 
 [SAY]  YOUR IN CHARACTER SPEECH  [/SAY]
