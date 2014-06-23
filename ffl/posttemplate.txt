@@ -1,13 +1,5 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-[say]Name's Dow, Dow Rayles. If'n you got a ship and need a pilot I'm your man.[/say]
-
-He makes sure to get everyone's name, his brain's been jarred around in the pan such that some of them are hazy and others he's never gotten in the first place.
-
-[say]How many guards y'all seen - I'd say at least 10, plus however many is off duty. You think we can handle that many for 4 hours? I'm not so optimistic.[/say]
-
-[say]When Rein gets his way, I got a sense that the bodies is gonna start pilin' up. I just want outta here, not and make a reason to have to run for the rest of my life. I'm a young man, at some point it would be nice to get married, make a bunch a young un's and have a quiet old age. That's gonna be a mite easier if we don't leave a trail of coolin bodies behind.[/say]
-
 
 [spoilerbutton=Mechanics]
 [smallsheet]45300[/smallsheet]

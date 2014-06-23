@@ -1,26 +1,36 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-Dai meets the bunch with the beginnings of a smile on his face, but when he sees how beat up everyone is, turns immediately serious.
+Dai relies heavily on Aurora as he slowly enters the RV.
+ 
+[say]Those weren't Sandmen. They broke in and perused my knowledge of the Inorganics. I wasn't equipped to keep them out, and we may safely assume that they know what I know. Fortunately that is relatively little regarding our current circumstance.[/say]
 
-[say]Etoile is the french language word for star. It can refer to a number of different things - in many cases it is applied to communes for some cultural reason. It's also the name of an alternate computer environment. There are several locations named Etoile scattered around the world. Possibly the most prominent is as the highest rank of dancer in the Paris Ballet.[/say]
+He takes a few shallow breaths, trying not to stir his broken collarbone nor bruised ribs.
 
-He ponders for a moment before continuing [say]there is also the film Etoile starring Jennifer Connolly from 1989, but that seems unlikely in this context, I mention it strictly for completeness.[/say]
+[say]At the very least they are a human derivative, and may be an alien form altogether. I also surmise that they are in need of information on the sandmen which implies that they may be inimical.[/say]
 
-As Dorian seems to be in charge,  Dai wants to make himself useful. [say]Would it be alright if I open the cooler? Precautions?[/say]
+Dai closes his eyes and tries to relax a bit.
+
+[say]I may be in no shape to drive for some small amount of time.[/say] That last may be a classic bit of English understatement - besides at least having something broken, he has blood spiderwebbed across his face.
+
+[say]In fact, I may need a hospital.[/say]
 
 [spoilerbutton=Mechanics]
-[fieldset="Dai"] Stress:P 2 : M 2 : F 4/3 :
+[fieldset="Dai"] Stress:P 3 : M 3/2 : F 3/3 :
+[2]
+[4] Blood on the Brain
+[6] Broken collar bone
 [POST="5906282"][SIZE="4"][COLOR="DarkRed"]Dai[/COLOR][/SIZE][/POST]
-[/fieldset][/spoilerbutton]
+[/fieldset]
+[secret]Any useful observations on the MiB - aspects that may be present in future encounters with them? 5 shifts of notice, twice.[/secret] [/spoilerbutton]
 [spoilerbutton=ooc]
-[fieldset="ooc"] I really hope that the box doesn't contain what it did in your reference Spats.
+[fieldset="ooc"] 
 
-Assuming that Dai has been here for at least a bit, is there a clean room or isolation chamber with negative pressure available?
 [/fieldset][/spoilerbutton]
 
 [SAY]  YOUR IN CHARACTER SPEECH  [/SAY]
 [I]  YOUR IN CHARACTER THOUGHTS  [/I]
 [COLOR=BLUE]  YOUR IN CHARACTER SPELLS OR ATTACKS  [/COLOR]
 [LANG][SAY] IN CHARACTER SPEECH IN ANOTHER LANGUAGE [/SAY][/LANG]
-[tt="investigate"]Using a fate point and the detail aspect (given sufficient time)[DICE="Investigate"]4dF+7[/DICE][/tt]
+[tt="wriggles"][DICE="Athletics"]4dF+1[/DICE]Defense vs squeeze[/tt]
+]
 

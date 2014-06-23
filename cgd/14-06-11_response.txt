@@ -1,0 +1,23 @@
+I snipped up your answer and am answering or clarifying in line, just below the relevant part. Here goes - 
+
+[QUOTE=Moonwhisper;6174729]
+About the one trick-pony we have discussed alot and I had the idea with the system of diminishing returns / higher cost each increase therewas enough incentive to spread the skills and increase the chance of a well rounded character.[/QUOTE]
+
+An excellent point - as skills become better they cost more to improve. Likely result will be to have a character buy either more diverse (more trunk skills) or more specialized (branch) skills which are less expensive. I think either option is viable.
+
+[QUOTE=Moonwhisper;6174729]
+- In my opinion what is worse than a one trick pony is a solo army, one min-maxed character who has an answer to every challenge. I hate those characters. My more realistically build characters always fade behind them, though mostly with min-max builds the RP sucks (apart from the alpha-syndrome often arising together with it).[/quote]
+
+In my experience that is less of a problem in Narrative style games which focus more on the characters and dramatic elements in the story rather than overcoming challenges. Failure is interesting rather than being a dead end, and why a character does something is far more relevant than what they are actually doing so the one man army problem becomes irrelevant. Not to minimize the problem - in many of the games here it is a real and definite issue, but for games like FATE Core it just isn't really a consideration.
+
+[QUOTE=Moonwhisper;6174729]
+- Specializing into a particular area is a natural thing to do. It is crazy though to think that only specialists can do something. There are also things like the beginners fluke etc. And even more that your character is bounded by it's class to perform actions. In my opinion classes are a restrictive system unnecessary (I'm dutch, how the hack do you write that word, all those double consonants) for pbp. So to truely be able to make rounded characters you need to ditch classes. Specializations might be an option, not at the start but through growth.
+
+- I was thinking in a different direction with character growth. Experience is in real life based on the number of times you perform an action, combined with talents or natural inclings to progress faster or slower. That might be a system usable for pbp. Of course with computergames it's applied often (and abandoned) but why not use it in pbp. The different challenges determine in which area's the characters progress (with some variability build-in by the way the pc's solve the problems laid down before them). Normally it would be hell to track all the skill uses, but because pbp is slow, it's not often used, so progress is trackable. Plus every action can be traced back without extra work.
+
+- One thing that speaks against a not too specialized build is that the steps between different dificulty levels of a challenge must be very small. But with small differences the effect of the  randomization factor increases, which might spoil the complete game system. To this problem I have no answer yet.
+[/QUOTE]
+
+The implication of the current discussion is a classless system with skill advancement rather than levels.  Players buy up aptitudes, applications and specializations as they play.
+
+I like the idea of skill uses informing advancement, but would give points for epic success (pool minus obstacle successes) or epic failure (no successful dice and 1's equal to pool minus obstacle?). I think we had some discussion on advancement and talked about using the characters role playing motives as the benchmark for advancement. I like this even tho it's a bit contrived as it will push roleplay in a way that just random results of die rolls won't.

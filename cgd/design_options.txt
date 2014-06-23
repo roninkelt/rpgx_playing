@@ -1,0 +1,8 @@
+# vim: set wrap ft=bbcode fileencoding=utf-8 :
+
+Options under consideration:
+
+each scene the characters donate a number of dice from their character to a scene pool which is used by everyone to resolve actions. The GM adds dice to the pool when bidding to complete his actions and the players remove dice to do the same. The scene pool is fixed at the beginning of every scene and the total number of dice for an act (a number of scenes that build to a story point) is based on the characters involved. The scene pool will generally build as dice are added and subtracted based on character and gm actions and the pool rolls over from scene to scene. A large pool would represent lots of tension and unresolved desires, while a small pool generally would represent a lull in the story.
+
+each character bases the success or failure of their actions on the roll of the character before them. What this means is that the prior post would draw dice from another character (doesn't matter which one as long as it's not their own) and throw a pool for the next action. The next character to post would use that roll as the basis for their action and then do the same thing - draw dice from another and carry on. This would speed action by not requiring a character to wait for the result of rolls before continuing on.
+

@@ -1,23 +1,11 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
 [fieldset=""]
-[url="http://www.rpgcrossing.com/profiler/view.php?id=34235"][SIZE="4"][COLOR="DarkRed"]Briav[/COLOR][/SIZE][/url] tries to stay in the shade, doing his best to keep the sun from broiling him whole in armor. He mops a rag across his forehead and squints at the smoking mountain.
-
-[say]Finally. Lllllets hope it's there this tttttime.[/say]
-
- He slings a pack over his shoulders, shrugging it comfortable. 
-
-[say]Wh wh when do we leave?[/say]
-
-No sense wasting time, if the damn gauntlet isn't there, better to find out
-sooner rather than later.  
-
-Sooner better than later - his father had taunted him with those very words on the way out after his last visit home. The returning punch he had landed lifted the old man from his feet but didn't remove the sting of the words. The implication that it would never happen still stung and put him in a foul mood at times. Briav's teeth ground and jaw muscles jumped at the memory.
-
+[url="http://www.rpgcrossing.com/profiler/view.php?id=34235"][SIZE="4"][COLOR="DarkRed"]Briav[/COLOR][/SIZE][/url] takes the lead from Cralon, gathering things quietly into his pack and preparing to move on. Fortunately there wasn't much too it as they hadn't been here more than a couple minutes before being confronted. He nods curtly to Gade then to Cralon when he's ready. 
 
 [/fieldset]
 
-[fieldset="ooc"]Character updates still underway.  I'm still getting back on my feet after returning to the States.
+[fieldset="ooc"]
 [/fieldset]
 
 [B]"  YOUR IN CHARACTER SPEECH  "[/B]

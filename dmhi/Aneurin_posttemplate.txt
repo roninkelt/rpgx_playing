@@ -1,15 +1,16 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-[say]Yes, Jeannie, very helpful. You wouldn't happen to know what is going on with the samples from our last mission would you?[/say]
+Dai was considering options, cradling chin in hand and standing stock still while his eyes flicked over the equipment at hand. The fiberscope seems an excellent idea. Then Dorian kiboshes the whole project. 
 
-Dai wonders what all this has to do with the video that they were shown today, possibly to point out ESI? On another front, the footage of the Sandman decomposing, may have been an escape attempt or possibly preliminary to assuming another form. Perhaps they can only hold a form for a limited amount of time, which would explain some of the agents behaviour. Was it possible to get turned into a sandman? Silicon and Carbon have very different properties, it seems unlikely. Perhaps that would be an interesting test to detect the presence of a Sandman - the human body recomposes oxygen into carbon dioxide as part of it's mitochondrial energy processes, what would the equivalent be for a silicon based being? Would it be possible to test respiration products in real time?
+[say]On the whole, you seem to have had an interesting time of it. Would someone perhaps fill in the gaps?[/say]
 
-He whips out his notebook and writes notes to that effect, then asks Jeannie [say]Has anyone considered a method to detect the presence of a Sandman? Respiration byproducts or other biologicals?[/say]
+Inorganics - that seems to reference the sandmen. Much more descriptive. Dealing with Ogura seems to take a delicate touch and he takes the lead from other team members - leaving him to Dorian. Listening and filing the information as potentially unreliable ravings. 
 
-He'll discuss it in as much detail as she would like, brainstorming ideas and possible telltales.
+ Dai paces as the doctor and his staff treat everyone that needs it. He's concerned, but mostly unable to help.
+
+[say]Glad to see that you seem to have come thru with little more than nicks and scrapes Garland. I'll wager you've had worse after a match.[/say] 
 
 [spoilerbutton=mechanics][fieldset="Dai Stress:P 2 : M 3 : F 3/3 "]
-2|Mild: "That means it's healing, don't pick"*
 [/fieldset][/spoilerbutton]
 
 [fieldset="ooc"] 

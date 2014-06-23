@@ -1,15 +1,15 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-As the ASREV drops to the ground, Dow casually edges out of view. His
-unfortunate place of refuge is behind Rein and when the maniac points his gun at the marshal, Dow is horrified but unable to move without drawing undue attention.
+[say]We gon meet them on their own terms? Force wi force?  Is that all y'all muscle heads unnerstand?[/say] 
 
-
+Dow looks round incredulously. He really can't believe what he's hearing.
+[say]Get them folk to take responsibility for themselves - run em off into the wilderness and back then we can lift them to the cave mouth with the ship and play some hide n seek til they run out of time. The cave will block most any wave that someone can carry on them. If they keep back into the caves it'll be like gettin a tick off a hound to get them out.[/say]
 
 [spoilerbutton="Mechanics"]
-
+[DICE="Pilot"]1d8 1d12+2t[/DICE]
 [fieldset="Dow"][URL="http://www.rpgcrossing.com/profiler/view.php?id=45300"]Dow[/URL][/fieldset][/spoilerbutton]
 
-[fieldset="ooc"] 
+[fieldset="ooc"] Does the Freedom have any ship to ship weapons mounted?
 [/fieldset]
 
 [SAY]  YOUR IN CHARACTER SPEECH  [/SAY]
@@ -17,4 +17,3 @@ unfortunate place of refuge is behind Rein and when the maniac points his gun at
 [COLOR=BLUE]  YOUR IN CHARACTER SPELLS OR ATTACKS  [/COLOR]
 [LANG][SAY] IN CHARACTER SPEECH IN ANOTHER LANGUAGE [/SAY][/LANG]
 [tt=""][DICE=""]1d10+1d8[/DICE][/tt]
-
