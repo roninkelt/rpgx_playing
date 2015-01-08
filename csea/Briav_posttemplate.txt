@@ -1,12 +1,14 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-[fieldset=""]
-[url="http://www.rpgcrossing.com/profiler/view.php?id=34235"][SIZE="4"][COLOR="DarkRed"]Briav[/COLOR][/SIZE][/url] takes the lead from Cralon, gathering things quietly into his pack and preparing to move on. Fortunately there wasn't much too it as they hadn't been here more than a couple minutes before being confronted. He nods curtly to Gade then to Cralon when he's ready. 
+[fieldset="AC: 25; HP: 108/108; Spiked Chain +3: P, +21/16/11, 2d4+13 Reach 10;  Speed: 20"]
+[url="http://www.rpgcrossing.com/profiler/view.php?id=34235"][SIZE="4"][COLOR="DarkRed"]Briav[/COLOR][/SIZE][/url] rests - hands on knees, sweat dripping from his helmet. [i]One foot in front of the other. Just keep it going[/i] 
 
+[say]Ggggauntlet. Wwwwword ffffame. Ffforever known. Pppower![/say]
+
+He blows hard and sweat flies from the slits and vent holes, clearing for a cooling breath for just a minute before returning to the half stifling heat. Gesturing to Gade for further explanation he returns to his regular stoic silence.
 [/fieldset]
 
-[fieldset="ooc"]
-[/fieldset]
+[fieldset="ooc"] Sounds like a good plan to me. [/fieldset]
 
 [B]"  YOUR IN CHARACTER SPEECH  "[/B]
 [I]  YOUR IN CHARACTER THOUGHTS  [/I]
@@ -14,8 +16,9 @@
 [B][LANG]" IN CHARACTER SPEECH IN ANOTHER LANGUAGE "[/LANG][/B]
 [tt=""][DICE="greatsword first attack"]1d20+12sch0cx,19 2d6+8ci1[/DICE][/tt]
 [tt=""][DICE="greatsword second attack"]1d20+7sch0cx,19 2d6+8ci1[/DICE][/tt]
-[tt=""][DICE="chain first attack"]1d20+11sch0cx,20 2d4+7ci1[/DICE][/tt]
-[tt=""][DICE="chain second attack"]1d20+6sch0cx,20 2d4+7ci1[/DICE][/tt]
+[tt=""][DICE="chain first attack"]1d20+21sch0cx,20 2d4+13ci1[/DICE][/tt]
+[tt=""][DICE="chain second attack"]1d20+16sch0cx,20 2d4+13ci1[/DICE][/tt]
+[tt=""][DICE="chain third attack"]1d20+11sch0cx,20 2d4+13ci1[/DICE][/tt]
 
 [tt=""][DICE="Fortitude"]1d20+7[/DICE][/tt] 
 [tt=""][DICE="Reflex"]1d20+2[/DICE][/tt]
@@ -23,4 +26,4 @@
 Greatsword +1: S, +12/+7, 2d6+8 ;
 Spiked Chain +1: P, +11/+6, 2d4+7, Reach 10;
 Dagger : P, +9/+4, 1d4+3, Reach 5; 
-AC: 20; HP: 65/65; Grappling ;  Speed: 20
+AC: 25; HP: 108/108; Spiked Chain +3: P, +21/16/11, 2d4+13 Reach 10;  Speed: 20

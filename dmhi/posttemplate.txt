@@ -1,27 +1,19 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
-Dai relies heavily on Aurora as he slowly enters the RV.
- 
-[say]Those weren't Sandmen. They broke in and perused my knowledge of the Inorganics. I wasn't equipped to keep them out, and we may safely assume that they know what I know. Fortunately that is relatively little regarding our current circumstance.[/say]
+[say]Whuzzah?[/say]
 
-He takes a few shallow breaths, trying not to stir his broken collarbone nor bruised ribs.
+Dai struggles awake at the lurch and scraping clang. Muzzy from sleep he peers about from inside the RV, trying to figure out what just happened. As what his brain registered catches up to conscious thought, he watches Garland pile out the drivers door and Dorian spring into action. Roy struggles free of his blanket as Dai sits up.  He reaches under the cushion for his pistol and chambers a round.
 
-[say]At the very least they are a human derivative, and may be an alien form altogether. I also surmise that they are in need of information on the sandmen which implies that they may be inimical.[/say]
-
-Dai closes his eyes and tries to relax a bit.
-
-[say]I may be in no shape to drive for some small amount of time.[/say] That last may be a classic bit of English understatement - besides at least having something broken, he has blood spiderwebbed across his face.
-
-[say]In fact, I may need a hospital.[/say]
+[say]Now what?[/say]
 
 [spoilerbutton=Mechanics]
-[fieldset="Dai"] Stress:P 3 : M 3/2 : F 3/3 :
+[fieldset="Dai"] Stress:P 3[][][] : M 3[][][] : F 3/3 :
 [2]
-[4] Blood on the Brain
-[6] Broken collar bone
+[4] Blood on the Brain*
+[6] Broken Collarbone*
 [POST="5906282"][SIZE="4"][COLOR="DarkRed"]Dai[/COLOR][/SIZE][/POST]
 [/fieldset]
-[secret]Any useful observations on the MiB - aspects that may be present in future encounters with them? 5 shifts of notice, twice.[/secret] [/spoilerbutton]
+[secret][/secret] [/spoilerbutton]
 [spoilerbutton=ooc]
 [fieldset="ooc"] 
 
@@ -34,3 +26,8 @@ Dai closes his eyes and tries to relax a bit.
 [tt="wriggles"][DICE="Athletics"]4dF+1[/DICE]Defense vs squeeze[/tt]
 ]
 
+MIBs as you call them seem VERY interested the Inorganics as well. They may or may not be Extant themselves. You did notice that both of the MIBs have a '4th' knuckle on each figure so they are both 'at least' mutants. Each also has ashen skin that isn't cosmetic. The woman has extreme mental powers - 'in your brain' she called herself a 'finder'. 
+
+You will get a situational aspect - "I've Seen You Before" with a free invoke on your next encounter with an MIB that you can use in that encounter only. IF you start an notebook section in your CS, you can add an "extra" on your CS called, "Extant Notebook" that will start with an aspect you can create related to this incident. If you go that route, then the sit aspect above can go on it until you use it. Enjoy!
+
+From a mechanics viewpoint, its good to let them know that the journal (extra with a playable aspect) is around. But of course, if you are keying into the 'secrets' side of the game, then thats ok too.
