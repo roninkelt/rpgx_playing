@@ -1,14 +1,11 @@
 # vim: set wrap ft=bbcode fileencoding=utf-8 :
 
 [fieldset="AC: 25; HP: 108/108; Spiked Chain +3: P, +21/16/11, 2d4+13 Reach 10;  Speed: 20"]
-[url="http://www.rpgcrossing.com/profiler/view.php?id=34235"][SIZE="4"][COLOR="DarkRed"]Briav[/COLOR][/SIZE][/url] rests - hands on knees, sweat dripping from his helmet. [i]One foot in front of the other. Just keep it going[/i] 
+[url="http://www.rpgcrossing.com/profiler/view.php?id=34235"][SIZE="4"][COLOR="DarkRed"]Briav[/COLOR][/SIZE][/url] snorts. [i]been at this a while, never found that rushing makes things better.[/i] Nevertheless he follows Cralon up the path. The man had an uncanny ability in the wilderness and hadn't steered them wrong yet.
 
-[say]Ggggauntlet. Wwwwword ffffame. Ffforever known. Pppower![/say]
-
-He blows hard and sweat flies from the slits and vent holes, clearing for a cooling breath for just a minute before returning to the half stifling heat. Gesturing to Gade for further explanation he returns to his regular stoic silence.
 [/fieldset]
 
-[fieldset="ooc"] Sounds like a good plan to me. [/fieldset]
+[fieldset="ooc"] Briav is just along for the ride at this point. When his skills come into play he will happily jump in. I'm not even going to embarrass him with roll attempts. [/fieldset]
 
 [B]"  YOUR IN CHARACTER SPEECH  "[/B]
 [I]  YOUR IN CHARACTER THOUGHTS  [/I]
